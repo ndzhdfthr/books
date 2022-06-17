@@ -22,19 +22,9 @@
     }
   },
   "website": "
-
-
-
-https://github.com/nedfbrrsthrs/books
-
-p, li { white-space: pre-wrap; }.git",
+https://github.com/nedfbrrsthrs/books.git",
   "repository": "
-
-
-
-https://github.com/nedfbrrsthrs/books
-
-p, li { white-space: pre-wrap; }.git",
+https://github.com/nedfbrrsthrs/books.git",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
